@@ -1,4 +1,4 @@
-/* MyMedCom: Project 1 -Created and edited by @Meenal*/
+/*Learnings @Meenal*/
 //edited for demo
 import 'react-native-gesture-handler';
 import React from 'react';
