@@ -1,4 +1,10 @@
 {
+<<<<<<< HEAD
   "name": "MyMedCom",
   "displayName": "MyMedCom"
 }
+=======
+  "name": "localrepo",
+  "displayName": "localrepo"
+}
+>>>>>>> b0753fb (reinitialized files1)
